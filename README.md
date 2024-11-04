@@ -1,6 +1,8 @@
 # Data-Structures-Algorithms-in-Python-CodingNinjas
 Phase 2 of Ninja Data Scientist Career Track.
 
+Link to get an idea of FULL CONTENT of the course - https://www.shiksha.com/college/coding-ninjas-pitampura-delhi-112111/course-online-python-foundation-with-data-structures-algorithms-1196065
+
 1. Recursion - 1
 2. Recursion - 2
 3. Recursion Assignment
